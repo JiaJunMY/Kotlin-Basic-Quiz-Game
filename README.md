@@ -1,5 +1,10 @@
 # Kotlin-Basic-Quiz-Game
-Just a basic quiz game made in Kotlin &amp; Android Studio
+Just a basic quiz (A, B, C & D option) game made in Kotlin &amp; Android Studio
+
+Features:
+- Comes with game difficulty (Easy, Hard), time settings (10s, 7s, 5s) and scoring system.
+- Scoring system is calculated based on selected difficulty & time.
+- Users are provided with 3 lives at the beginning of the game. (Hard gives 1 live only)
 
 -- Main Menu Interface -- </br>
 <img width="386" height="696" alt="Main Menu Interface" src="https://github.com/user-attachments/assets/58cf1dde-830e-4356-819f-fae1eed7004c" />
