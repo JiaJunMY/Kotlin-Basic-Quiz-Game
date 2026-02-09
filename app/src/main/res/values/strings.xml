@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="questionplaceholder">Question 1:\nThis is currently a placeholder :)</string>
+</resources>

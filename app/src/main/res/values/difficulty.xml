@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name= "diff_leaderboard">
+        <item> Easy Mode </item>
+        <item> Hard Mode </item>
+    </string-array>
+</resources>
